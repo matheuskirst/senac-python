@@ -1,0 +1,2 @@
+from .adicionar_suspeito import AdicionarSuspeito
+from .obter_descricao_suspeito import ObterDescricaoSuspeito

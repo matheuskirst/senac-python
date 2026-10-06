@@ -4,8 +4,6 @@ from dotenv import load_dotenv
 from data import AppContext
 from services import VisitantesService
 from view import SistemaView
-from models import Visitante
-from libraries import DataclassInstance
 
 def main():
     app_context = AppContext()
